@@ -92,11 +92,11 @@ Better also offers a premium service for enhanced customization and optimized ma
 5. **Community Support**  
    - A dedicated team for regular updates and user feedback. 
 
---
-
-![Image](https://i.imgur.com/Ec2BhsW.png)
-
 6. **Comparison Video**  
    - A visual demonstration showcasing Better’s performance against other bots.  
    <video src='https://github.com/user-attachments/assets/242d7adb-137b-4041-a6b6-88ec19a4bd05' width=180/>
+
+   --
+   ![Image](https://i.imgur.com/Ec2BhsW.png)
+
 
