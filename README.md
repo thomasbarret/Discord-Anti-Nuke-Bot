@@ -31,24 +31,24 @@ Better propose également une offre premium, permettant une personnalisation pou
 2. **Anti-Nuke Ultra Performant**  
    - Analyse en temps réel des actions suspectes sur le serveur.  
    - Blocage immédiat des utilisateurs malveillants.
-   - 
+   - ![Image](https://i.imgur.com/So6ueXR.png)
 
 3. **Modération**  
    - Commandes avancées pour gérer les membres et modérer les activités.  
-   - Fonctionnalités de bannissement, kick, mute, et gestion des cas.  
+   - Fonctionnalités de bannissement, kick, mute, et gestion des cas.
+   - ![Image](https://i.imgur.com/1CLj6F0.png) 
 
 4. **Instance Premium**  
    - Abonnement permettant une instance dédiée et personnalisée du bot.  
-   - Gestion des ressources et des fonctionnalités via **PM2**.  
+   - Gestion des ressources et des fonctionnalités via **PM2**.
+   - ![Image](https://i.imgur.com/h51kXr9.png)
 
 5. **Support Communautaire**  
    - Une équipe dédiée pour des mises à jour régulières et une écoute attentive des utilisateurs.  
 
 6. **Comparaison Vidéo**  
    - Une démonstration visuelle des performances de Better par rapport à d'autres bots.
-   - **![Video](https://github.com/user-attachments/assets/242d7adb-137b-4041-a6b6-88ec19a4bd05)**
-
-
+   <video src='https://github.com/user-attachments/assets/242d7adb-137b-4041-a6b6-88ec19a4bd05' width=180/>
 
 ---
 
@@ -74,40 +74,27 @@ Better also offers a premium service for enhanced customization and optimized ma
 
 2. **Ultra-Performant Anti-Nuke**  
    - Real-time analysis of suspicious actions on the server.  
-   - Immediate blocking of malicious users.  
+   - Immediate blocking of malicious users.
+   - ![Image](https://i.imgur.com/So6ueXR.png)
 
 3. **Moderation**  
    - Advanced commands to manage members and moderate activities.  
-   - Features include banning, kicking, muting, and case management.  
+   - Features include banning, kicking, muting, and case management.
+   - ![image](https://i.imgur.com/1CLj6F0.png)
 
 4. **Premium Instance**  
    - Subscription service for a dedicated and customizable bot instance.  
-   - Resource and feature management via **PM2**.  
+   - Resource and feature management via **PM2**.
+   - ![Image](https://i.imgur.com/h51kXr9.png)
 
 5. **Community Support**  
-   - A dedicated team for regular updates and user feedback.  
+   - A dedicated team for regular updates and user feedback. 
+
+--
+
+![Image](https://i.imgur.com/Ec2BhsW.png)
 
 6. **Comparison Video**  
    - A visual demonstration showcasing Better’s performance against other bots.  
-   - **![Video](https://github.com/user-attachments/assets/242d7adb-137b-4041-a6b6-88ec19a4bd05)**
+   <video src='https://github.com/user-attachments/assets/242d7adb-137b-4041-a6b6-88ec19a4bd05' width=180/>
 
----
-
-**🔗 [Lien vers la vidéo comparative](#)**  
-**📂 Structure du projet**  
-```bash
-.
-├── README.md
-├── bun.lockb
-├── config.yml
-├── main.ts
-├── package-lock.json
-├── package.json
-├── src
-│   ├── class
-│   ├── commands
-│   ├── events
-│   ├── functions
-│   ├── interface
-│   └── languages
-└── tsconfig.json
