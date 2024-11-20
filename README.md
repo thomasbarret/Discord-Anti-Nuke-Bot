@@ -26,7 +26,8 @@ Better propose également une offre premium, permettant une personnalisation pou
 
 1. **Protection Avancée**  
    - Protection contre les suppressions et modifications non autorisées de rôles, canaux, et permissions.  
-   - Détection et réponse automatique aux comportements malveillants.  
+   - Détection et réponse automatique aux comportements malveillants.
+   <video src='https://github.com/user-attachments/assets/1f2ef50e-4c9d-42c1-a6ce-238b9f18ec84 ' width=180/>
 
 2. **Anti-Nuke Ultra Performant**  
    - Analyse en temps réel des actions suspectes sur le serveur.  
@@ -70,7 +71,8 @@ Better also offers a premium service for enhanced customization and optimized ma
 
 1. **Advanced Protection**  
    - Prevents unauthorized deletions and modifications of roles, channels, and permissions.  
-   - Detects and responds to malicious behaviors automatically.  
+   - Detects and responds to malicious behaviors automatically.
+   <video src='https://github.com/user-attachments/assets/1f2ef50e-4c9d-42c1-a6ce-238b9f18ec84 ' width=180/>
 
 2. **Ultra-Performant Anti-Nuke**  
    - Real-time analysis of suspicious actions on the server.  
